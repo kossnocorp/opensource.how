@@ -8,6 +8,14 @@ These minutes could have been spent on something meaningful, so you not only ste
 
 Don't write like a manager: "Why this isn't merged?" "What's the ETA?" "It blocks us!" "What are the blockers?".
 
+## Don't demand!
+
+Never demand anything from maintainers. Always keep in mind what maintainers' work is an act of goodwill — even labor backed by the community rarely pays more than minimum wage, so communicate accordingly.
+
+If you need a piece of information or help, say it politely. If you want to have something done, never push.
+
+First of all, you could have different priorities. You and your colleagues might be aligned on the same goal, but maintainers can have a different focus. Secondly, you might have a different perspective on the problem. Be ready to accept a rejection of your proposal, feature, or bug report. Yes, sometimes, bugs are features!
+
 ## Don't be noisy!
 
 Comments like "I also have this error" and "+1" are never helpful. It's especially tempting to type such comment when it's a critical issue, but that adds additional pressure and distraction.
