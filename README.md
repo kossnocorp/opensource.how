@@ -1,4 +1,4 @@
-# GitHub Comment Etiquette
+# GitHub Etiquette
 
 ## Don't be bossy!
 
@@ -27,3 +27,11 @@ If you want the get the attention of the maintainer, at least contribute somethi
 When the deadline is approaching and you still have a lot to do, a bug or unexpected behavior of the code you don't control is annoyance at least. Never show it!
 
 The maintainer has a different perspective and might not be aware of the problem even if you feel like everything is broken. If you want to get help, then be calm, objective, and patient.
+
+## Don't rush!
+
+Take your time before reporting a bug or asking a question. First, make sure you're not missing anything. Read the docs, google the problem, search the issues, doublecheck, and only then reach for help.
+
+When you do reach for help, make sure that you provide as much information as possible. Proactively present library versions, code example, reproduction steps, etc. Describe the problem in detail. Don't wait for the maintainers to ask you for that. Provide or at least offer to provide a minimal reproducible example. This way, you'll minimize the effort that they have to put to help you, which would maximize your chances to prompt response.
+
+It's easy for you to assume that all they need is a short description of the problem as the maintainers know their thing the best and provide additional information only when they ask you. But in that's just a time steal and the best way to get rightfully ignored.
