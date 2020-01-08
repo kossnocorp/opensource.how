@@ -36,7 +36,7 @@ When the deadline is approaching and you still have a lot to do, a bug or unexpe
 
 The maintainer has a different perspective and might not be aware of the problem even if you feel like everything is broken. If you want to get help, then be calm, objective, and patient.
 
-## Don't cause drama
+## Don't cause drama!
 
 Never post comments that might cause a drama or emotionally hurt maintainers.
 
