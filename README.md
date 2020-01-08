@@ -22,12 +22,6 @@ Comments like "I also have this error" and "+1" are never helpful. It's especial
 
 If you want the get the attention of the maintainer, at least contribute something. If the issue lacks stack trace or reproductions steps — add it. Don't feel capable of opening a PR? Create a minimal repo with the demo of the error.
 
-## Don't be emotional!
-
-When the deadline is approaching and you still have a lot to do, a bug or unexpected behavior of the code you don't control is annoyance at least. Never show it!
-
-The maintainer has a different perspective and might not be aware of the problem even if you feel like everything is broken. If you want to get help, then be calm, objective, and patient.
-
 ## Don't rush!
 
 Take your time before reporting a bug or asking a question. First, make sure you're not missing anything. Read the docs, google the problem, search the issues, doublecheck, and only then reach for help.
@@ -35,3 +29,17 @@ Take your time before reporting a bug or asking a question. First, make sure you
 When you do reach for help, make sure that you provide as much information as possible. Proactively present library versions, code example, reproduction steps, etc. Describe the problem in detail. Don't wait for the maintainers to ask you for that. Provide or at least offer to provide a minimal reproducible example. This way, you'll minimize the effort that they have to put to help you, which would maximize your chances to prompt response.
 
 It's easy for you to assume that all they need is a short description of the problem as the maintainers know their thing the best and provide additional information only when they ask you. But in that's just a time steal and the best way to get rightfully ignored.
+
+## Don't be emotional!
+
+When the deadline is approaching and you still have a lot to do, a bug or unexpected behavior of the code you don't control is annoyance at least. Never show it!
+
+The maintainer has a different perspective and might not be aware of the problem even if you feel like everything is broken. If you want to get help, then be calm, objective, and patient.
+
+## Don't cause drama
+
+Never post comments that might cause a drama or emotionally hurt maintainers.
+
+You might be upset about maintainers intrusively asking for donations. You might be frustrated by the lack of attention to your issue. You might be dissatisfied with the quality of the project. You might know the better alternative. You might think that's enough for you to post a comment demanding to remove annoying ads or announce that you're moving to another solution. No, it's not.
+
+For you, that would be a simple message, but on another end, it might ruin the day or strip out the motivation to continue. That's not the right way to treat people that decided to give something for you for free, even if it's not good enough.
