@@ -44,7 +44,7 @@ You might be upset about maintainers intrusively asking for donations. You might
 
 For you, that would be a simple message, but on another end, it might ruin the day or strip out the motivation to continue. That's not the right way to treat people that decided to give something for you for free, even if it's not good enough.
 
-## Don't surprise
+## Don't surprise!
 
 If you plan to contribute great work to a project, communicate it first. Your vision might differ from the maintainers' one, or it could collide with their plans or ongoing work. The worst way you could help them is to create more work.
 
