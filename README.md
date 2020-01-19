@@ -43,3 +43,9 @@ Never post comments that might cause a drama or emotionally hurt maintainers.
 You might be upset about maintainers intrusively asking for donations. You might be frustrated by the lack of attention to your issue. You might be dissatisfied with the quality of the project. You might know the better alternative. You might think that's enough for you to post a comment demanding to remove annoying ads or announce that you're moving to another solution. No, it's not.
 
 For you, that would be a simple message, but on another end, it might ruin the day or strip out the motivation to continue. That's not the right way to treat people that decided to give something for you for free, even if it's not good enough.
+
+## Don't surprise
+
+If you plan to contribute great work to a project, communicate it first. Your vision might differ from the maintainers' one, or it could collide with their plans or ongoing work. The worst way you could help them is to create more work.
+
+If you get rejected, be understanding and not try to cause the feeling of guilt. It's already hard for maintainers to say no, so don't make it harder. Feel free to clarify your intention if you think they misunderstood you but never start an argument.
