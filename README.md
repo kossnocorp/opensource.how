@@ -1,5 +1,9 @@
 # GitHub Etiquette
 
+## Don't be mean!
+
+Be nice!
+
 ## Don't be bossy!
 
 It takes just a few seconds to type "Any updates on this?" but it takes much more time and energy to write a report back to you. First of all, you're not maintainers boss, and they owe you nothing, not to mention a report.
@@ -35,6 +39,14 @@ It's easy for you to assume that all they need is a short description of the pro
 When the deadline is approaching and you still have a lot to do, a bug or unexpected behavior of the code you don't control is annoyance at least. Never show it!
 
 The maintainer has a different perspective and might not be aware of the problem even if you feel like everything is broken. If you want to get help, then be calm, objective, and patient.
+
+## Don't patronize!
+
+Never assume that the maintainer is less experienced or knowledgeable or straight stupid. That better approach, tool, or decision that you have in mind might have been considered or even planned. They have full context and had much more time than you to think everything through, so more likely, it's you who's confused.
+
+It's reasonable to think that the maintainer is an expert in the subject, and you're not. Even if you find an objectively low-quality code, don't assume the authors' experience or skills.
+
+If you disagree with the direction, instead of arguing, it's better to consider an alternative. Some prefer functional programming, some object-oriented code, but that doesn't mean that later or former are wrong. The maintainer should be able to decide what trade-off to choose regardless of your needs or views.
 
 ## Don't cause drama!
 
