@@ -48,6 +48,12 @@ It's reasonable to think that the maintainer is an expert in the subject, and yo
 
 If you disagree with the direction, instead of arguing, it's better to consider an alternative. Some prefer functional programming, some object-oriented code, but that doesn't mean that later or former are wrong. The maintainer should be able to decide what trade-off to choose regardless of your needs or views.
 
+## Don't forget to say thanks!
+
+Simple words of gratitude and praises often the sole motivator that makes open-source authors keep going, so don't be shy and say it!
+
+Do you want to see a pull-request merged, much-needed feature implemented and long-awaiter release shipped? Instead of reminding how much work is on their plate by asking "any news" or showing dissatisfaction (which only kills the motivation), say how their work is essential. Tell how much you value them. Tweet kind words about them and their project. Sometimes that's the best you can do.
+
 ## Don't cause drama!
 
 Never post comments that might cause a drama or emotionally hurt maintainers.
