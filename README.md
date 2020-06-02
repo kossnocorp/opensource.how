@@ -14,7 +14,7 @@ Don't write like a manager: "Why this isn't merged?" "What's the ETA?" "It block
 
 ## Don't demand!
 
-Never demand anything from maintainers. Always keep in mind what maintainers' work is an act of goodwill — even labor backed by the community rarely pays more than minimum wage, so communicate accordingly.
+Never demand anything from maintainers. Always keep in mind that maintainers' work is an act of goodwill — even labor backed by the community rarely pays more than minimum wage, so communicate accordingly.
 
 If you need a piece of information or help, say it politely. If you want to have something done, never push.
 
@@ -46,11 +46,11 @@ Never assume that the maintainer is less experienced or knowledgeable or straigh
 
 It's reasonable to think that the maintainer is an expert in the subject, and you're not. Even if you find an objectively low-quality code, don't assume the authors' experience or skills.
 
-If you disagree with the direction, instead of arguing, it's better to consider an alternative. Some prefer functional programming, some object-oriented code, but that doesn't mean that later or former are wrong. The maintainer should be able to decide what trade-off to choose regardless of your needs or views.
+If you disagree with the direction, instead of arguing, it's better to consider an alternative. Some prefer functional programming, some object-oriented code, but that doesn't mean that latter or former are wrong. The maintainer should be able to decide what trade-off to choose regardless of your needs or views.
 
 ## Don't forget to say thanks!
 
-Simple words of gratitude and praises often the sole motivator that makes open-source authors keep going, so don't be shy and say it!
+Simple words of gratitude and praises are often the sole motivator that makes open-source authors keep going, so don't be shy and say it!
 
 Do you want to see a pull-request merged, much-needed feature implemented and long-awaiter release shipped? Instead of reminding how much work is on their plate by asking "any news" or showing dissatisfaction (which only kills the motivation), say how their work is essential. Tell how much you value them. Tweet kind words about them and their project. Sometimes that's the best you can do.
 
