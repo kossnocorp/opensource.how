@@ -10,7 +10,7 @@ It takes just a few seconds to type "Any updates on this?" but it takes much mor
 
 These minutes could have been spent on something meaningful, so you not only steal time from the maintainer but also the whole community.
 
-Don't write like a manager: "Why this isn't merged?" "What's the ETA?" "It blocks us!" "What are the blockers?".
+Don't write like a boss: "Why this isn't merged?" "What's the ETA?" "It blocks us!" "What are the blockers?".
 
 ## Don't demand!
 
