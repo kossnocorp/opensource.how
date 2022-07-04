@@ -7,6 +7,7 @@
     "build": "firemyna build"
   },
   "devDependencies": {
+    "@astrojs/tailwind": "^0.2.2",
     "astro": "^1.0.0-beta.63",
     "firebase-tools": "^11.2.0",
     "firemyna": "^0.10.0"
